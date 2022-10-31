@@ -1,6 +1,8 @@
 # video_pose_similarity_pangpang
 Pose similarity between two videos
 
+![대체 텍스트](./read.png)
+
 # need
 Alphapose
 
