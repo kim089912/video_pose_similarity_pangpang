@@ -2,8 +2,7 @@
 Pose similarity between two videos
 
 # need
-2D-Pose-Similarity_reform.ipynb : Openpose  
-Alphapose_DTW_RBF_v3.ipynb : Alphapose
+Alphapose
 
 # what coding
 Coding everything
