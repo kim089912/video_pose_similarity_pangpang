@@ -1,7 +1,7 @@
 # video_pose_similarity_pangpang
 Pose similarity between two videos
 
-<h3>Information/h3>
+<h3>Information</h3>
 
 ![대체 텍스트](./read.png)
 
