@@ -29,6 +29,3 @@ Coding everything
 
 # Production period
 2022 5 8 ~ 2022 6 30  
-
-# License
-Software Copyright License for non-commercial scientific research purposes  
