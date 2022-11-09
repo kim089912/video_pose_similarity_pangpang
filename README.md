@@ -5,13 +5,13 @@ Pose similarity between two videos
 
 ![대체 텍스트](./read.png)
 
-<div align="center">
+<div>
   <h3>It's a similar move, but there's a time difference</h3>
 </div>  
 
 ![대체 텍스트](./similar_moving.png)
 
-<div align="center">
+<div>
   <h3>Quite a different move</h3>
 </div>  
 
