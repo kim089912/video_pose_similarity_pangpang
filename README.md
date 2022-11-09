@@ -1,13 +1,13 @@
 # video_pose_similarity_pangpang
 Pose similarity between two videos
 
+<h3>Information/h3>
+
 ![대체 텍스트](./read.png)
 
 <div align="center">
   <h3>It's a similar move, but there's a time difference</h3>
 </div>  
-
-<h3>Information/h3>
 
 ![대체 텍스트](./similar_moving.png)
 
