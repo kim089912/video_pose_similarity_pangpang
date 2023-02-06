@@ -3,6 +3,8 @@ Pose similarity between two videos
 
 <h3>Information</h3>
 
+![대체 텍스트](./read.png)
+
 <div>
   <h3>It's a similar move, but there's a time difference</h3>
 </div>  
