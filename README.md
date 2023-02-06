@@ -3,49 +3,29 @@ Pose similarity between two videos
 
 <h3>Information</h3>
 
-![대체 텍스트](./read.png)
+<div>
+  <h3>It's a similar move, but there's a time difference</h3>
+</div>  
+
+![대체 텍스트](./similar_moving.png)
 
 <div>
-  <h3>Relatively correct front and side photography test</h3>
+  <h3>Quite a different move</h3>
 </div>  
-<div>
-  <h4>Picture example</h4>
-</div>  
-![대체 텍스트](./samples/normal_front.png)
-![대체 텍스트](./samples/normal_side.png)
-<div>
-  <h4>Result</h4>
-</div>  
-![대체 텍스트](./samples/normal_1.png)
-![대체 텍스트](./samples/normal_2.png)
-![대체 텍스트](./samples/normal_3.png)
-![대체 텍스트](./samples/normal_4.png)
-![대체 텍스트](./samples/normal_5.png)
-![대체 텍스트](./samples/normal_6.png)
+
+![대체 텍스트](./little_wrong_moving.png)
 
 <div>
-  <h3>Relatively incorrect front and side photography test</h3>
-</div>   
-<div>
-  <h4>Picture example</h4>
+  <h3>Result graph</h3>
 </div>  
-![대체 텍스트](./samples/bad_front.png)
-![대체 텍스트](./samples/bad_side.png)
-<div>
-  <h4>Result</h4>
-</div>  
-![대체 텍스트](./samples/bad_1.png)
-![대체 텍스트](./samples/bad_2.png)
-![대체 텍스트](./samples/bad_3.png)
-![대체 텍스트](./samples/bad_4.png)
-![대체 텍스트](./samples/bad_5.png)
-![대체 텍스트](./samples/bad_6.png)
+
+![대체 텍스트](./cos_rbf_dtw_graph.png)
 
 # need
-Nothing
+Alphapose
 
 # what coding
 Coding everything
 
 # Production period
-2022 12 16 ~ 2022 1 15  
+2022 5 8 ~ 2022 6 30  
